@@ -1,2 +1,2 @@
-# Entra21_Ge-rgia
+# Entra21_Georgia
 Repositório para as aulas de Python
