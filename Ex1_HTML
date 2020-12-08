@@ -7,8 +7,22 @@
         <style></style>
     </head>
     <body>
+
         <div id="Header">
             <h1>5 Lugares para Viajar<br></h1>
+        </div>
+
+        <div class="menu">
+          <a href="#">Home</a>
+          <a href="#">Dicas</a>
+          <a href="#">Hospedagem</a>
+          <a href="#">Roteiro</a>
+          <a href="#">Passagens Aereas</a>
+          <a href="#">Aluguel de Carros</a>
+          <a href="#">Seguro Viagens</a>
+          <a href="#">Guias</a>
+          <a href="#">Blog</a>
+          <a href="#">Atendimento</a>
         </div>
 
         <div class="Tailândia">
