@@ -1,8 +1,32 @@
 #Header {
     text-align: center;
     background-color: #00FFFF;
+    padding: 30px;
     height: 100%;
     width: 100%;
+}
+
+#Header h1 {
+    font-size: 40px;
+}
+
+.menu {
+  overflow: hidden;
+  background-color: #20F7D7;
+}
+
+.menu a {
+  float: left;
+  display: block;
+  color: #14A2FC;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background-color: #14A2FC;
+  color: #20F7D7;
 }
 
 .Tailândia {
